@@ -76,6 +76,10 @@ section ul {
     margin-left: 20px;
 }
 
+section a {
+    color: #333;
+}
+
 footer {
     text-align: center;
     padding: 20px 0;
